@@ -3,7 +3,7 @@
 A local AI that speaks like Rocky, the Eridian alien from Project Hail Mary.
 
 ## Stack
-- Model: TinyLlama 1.1B (via Ollama)
+- Model: llama3 (via Ollama)
 - Interface: TBD
 
 ## Setup
