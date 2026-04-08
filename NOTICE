@@ -1,0 +1,17 @@
+THIRD-PARTY NOTICES
+
+1. Meta Llama 3
+   This project uses the Llama 3 model by Meta.
+   License: Meta Llama 3 Community License
+   https://llama.meta.com/llama3/license/
+
+2. Ollama
+   This project uses Ollama to run local LLMs.
+   License: MIT License
+   https://github.com/ollama/ollama
+   Copyright (c) Ollama contributors
+
+3. Fan Project Disclaimer
+   Rocky is a fictional character from "Project Hail Mary" by Andy Weir.
+   This is an unofficial, non-commercial fan project.
+   Not affiliated with Andy Weir or Ballantine Books.
