@@ -12,7 +12,7 @@ You can use this project in two ways after setup:
 
 ![Terminal UI demo](Screenshots/TUI.png)
 
-![Ollama app demo](Screenshots/Ollama.png)
+<img src = "Screenshots/Ollama.png" alt = "Ollama app demo" width = "520">
 
 ## Project files
 

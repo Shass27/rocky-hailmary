@@ -14,6 +14,8 @@ from rich.live import Live
 from rich.panel import Panel
 from rich.text import Text
 
+import time
+
 OLLAMA_CHAT_URL = "http://localhost:11434/api/chat"
 MODEL_NAME = "rocky"
 EXIT_COMMANDS = {"quit", "exit", "q"}
@@ -173,6 +175,8 @@ def request_ollama(messages: List[dict]) -> str:
 
 def main() -> None:
     console = Console()
+    print("⚙️  Built with Meta Llama 3")
+    time.sleep(1)
     layout = Layout()
     layout.split_column(
         Layout(name="header", size=5),
